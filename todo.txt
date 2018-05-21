@@ -1,0 +1,7 @@
+-keresésnél ellenfél neve is
+-csapatlista txt-ben, label-eknél onnan választani (chkbox)
+-stadionlista txt-ben, helyszínnél onnan választani (combo)
+-Serie A forduló automatikusan (elõzõ mentése txt-ben?)
+-ellenféllista txt-ben, hozzá stadionok, edzõk, ezt automatikusan (ehhez Bajnokság combo kéne elõször, utána az ellenfél combo)
+-label-eket automatikusan a comment-ben írt nevek alapján (ehhez kell saját csapatlista txt-ben)
+-automatikus képméretezõ (420x290-re)
